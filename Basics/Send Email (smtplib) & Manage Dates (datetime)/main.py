@@ -1,7 +1,7 @@
 # import smtplib
 
 # my_email = "samuelqhtoledo@gmail.com"
-# password = "lamy cagc rdae hkfv"
+# password = "PASS"
 
 # with smtplib.SMTP("smtp.gmail.com", port=587) as connection:
 #     connection.starttls()
@@ -17,7 +17,7 @@ import random as rd
 import smtplib
 
 MY_EMAIL = "samuelhermsdorff@gmail.com"
-PASSWORD = "miuz mztq fsur ynvn"
+PASSWORD = "PASS"
 
 now = dt.datetime.now()
 year = now.year
@@ -37,3 +37,4 @@ if day_of_week == 0:
             msg=f"Subject:Hello\n\n{quote}"
             )
 # date_of_birth = dt.datetime(year=2001, month=3, day=9, hour=1)
+
