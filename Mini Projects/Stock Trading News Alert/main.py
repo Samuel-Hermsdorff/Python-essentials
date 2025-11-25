@@ -10,7 +10,7 @@ STOCK_URL = "https://www.alphavantage.co/query"
 NEWS_KEY = "b0557efc81ae48a69d303f769bc397b7"
 NEWS_URL = "https://newsapi.org/v2/everything"
 ACCOUNT_SID = "AC73fae689870200474455d5a14fdd4f5d"
-AUTH_TOKEN = "c99f114c08a2d7b9c504e80e3ce48fce"
+AUTH_TOKEN = "AUTH_TOKEN"
 ## STEP 1: Use https://www.alphavantage.com
 # When STOCK price increase/decreases by 5% between yesterday and the day before yesterday then print("Get News").
 stock_parameters = {
